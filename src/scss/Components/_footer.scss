@@ -1,0 +1,45 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(173deg, rgba(255,135,0,1) 72%, rgba(205,111,5,1) 100%);;
+
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .column {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .social {
+    }
+
+    .fab {
+        font-size: 24px;
+        color: $secondary-color;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    .footer-main {
+        background: $secondary-color;
+        color: $white-color;
+
+        .footer-main a {
+        text-decoration: none;
+        }
+    }
+
+    .footer-divider {
+        background-color: $main-color;
+        width: 125px;
+        height: 2px;
+    }
+
+    
+}

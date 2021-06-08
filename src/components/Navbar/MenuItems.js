@@ -2,22 +2,22 @@ export const MenuItems = [
     {
         title: 'Hem',
         url: '#',
-        cName: 'nav-links'
+        cName: 'nav-links text-decoration-none'
     },
     {
         title: 'Butik',
         url: '#',
-        cName: 'nav-links'
+        cName: 'nav-links text-decoration-none'
     },
     {
         title: 'Kontakt',
         url: '#',
-        cName: 'nav-links'
+        cName: 'nav-links text-decoration-none'
     },
     {
         title: 'Om oss',
         url: '#',
-        cName: 'nav-links'
+        cName: 'nav-links text-decoration-none'
     },
     {
         svg: '',
